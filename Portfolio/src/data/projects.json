@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A sleek personal portfolio built with React and Tailwind CSS.",
+    "image": "portfolio.jpg",
+    "tags": ["React", "Tailwind", "Frontend"]
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "description": "Real-time weather updates using OpenWeather API and geolocation.",
+    "image": "weather.jpg",
+    "tags": ["API", "JavaScript", "UX"]
+  },
+  {
+    "id": 3,
+    "title": "Task Manager",
+    "description": "A productivity app with drag-and-drop task organization.",
+    "image": "tasks.jpg",
+    "tags": ["React", "DragDrop", "Productivity"]
+  },
+  {
+    "id": 4,
+    "title": "Blog Platform",
+    "description": "Markdown-based blog with dynamic routing and content management.",
+    "image": "blog.jpg",
+    "tags": ["Next.js", "Markdown", "CMS"]
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Store",
+    "description": "A mock online store with cart functionality and Stripe integration.",
+    "image": "store.jpg",
+    "tags": ["React", "Stripe", "Commerce"]
+  },
+  {
+    "id": 6,
+    "title": "Chat App",
+    "description": "Real-time messaging app using Firebase and React.",
+    "image": "chat.jpg",
+    "tags": ["Firebase", "Realtime", "Messaging"]
+  },
+  {
+    "id": 7,
+    "title": "Recipe Finder",
+    "description": "Search for recipes using the Spoonacular API with filters and favorites.",
+    "image": "recipes.jpg",
+    "tags": ["API", "Search", "Food"]
+  },
+  {
+    "id": 8,
+    "title": "Fitness Tracker",
+    "description": "Track workouts and progress with charts and calendar integration.",
+    "image": "fitness.jpg",
+    "tags": ["Health", "Charts", "Calendar"]
+  },
+  {
+    "id": 9,
+    "title": "Music Player",
+    "description": "A sleek music player with playlist support and audio controls.",
+    "image": "music.jpg",
+    "tags": ["Audio", "UI", "Media"]
+  },
+  {
+    "id": 10,
+    "title": "Travel Journal",
+    "description": "Log travel experiences with maps, photos, and notes.",
+    "image": "travel.jpg",
+    "tags": ["Maps", "Notes", "Gallery"]
+  }
+]
