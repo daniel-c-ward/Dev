@@ -29,3 +29,4 @@ export function PageTitleUpdater() {
 
   return null;
 }
+
