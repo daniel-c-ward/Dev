@@ -14,7 +14,7 @@ export function Navbar() {
   return (
     <>
     <nav className="lg:px-18 lg:pt-18 md:px-5 md:pt-5 pt-2.5 p-2.5 flex items-end justify-between">
-      <NavLink to="/" className=" font-bold xl:text-7xl lg:text-5xl md:text-3xl text-2xl">DW</NavLink>
+      <NavLink to="/" className="font-bold xl:text-7xl lg:text-5xl md:text-3xl text-2xl">DW</NavLink>
       <div className="gap-5 font-bold xl:text-3xl lg:text-2xl md:flex hidden select-none">
         <NavLink to="/" className={({ isActive }) => isActive ? 'border-b-4 border-green-800' : ''}>Home</NavLink>
         <NavLink to="/portfolio" className={({ isActive }) => isActive ? 'border-b-4 border-green-800' : ''}>Portfolio</NavLink>

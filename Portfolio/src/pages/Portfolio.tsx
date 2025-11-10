@@ -1,4 +1,3 @@
-
 export function Portfolio() {
   return (
     <main className="px-18">
@@ -7,5 +6,5 @@ export function Portfolio() {
         <h3 className="text-7xl font-bold px-4 py-10">Skills</h3>
       </div>
     </main>
-  )
+  );
 }

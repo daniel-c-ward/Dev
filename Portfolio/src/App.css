@@ -4,3 +4,7 @@ body {
     background-color: rgb(27, 27, 27);
     color: white;
 }
+
+body::-webkit-scrollbar {
+    --webkit-scrollbar: none;
+}
